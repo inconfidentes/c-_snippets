@@ -1,1 +1,1 @@
-# c-_snippets
+# cpp_snippets
